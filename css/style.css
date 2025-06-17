@@ -7800,7 +7800,7 @@ h1, h2, h3, h4, h5,
 .volunteer h3 {
   color: #fff; }
 
-.volunter-form .form-control {
+.volunteer-form .form-control {
   border: 2px solid rgba(255, 255, 255, 0.7);
   height: 58px !important;
   background: transparent !important;
@@ -7809,22 +7809,22 @@ h1, h2, h3, h4, h5,
   border-radius: 0px;
   -webkit-box-shadow: none !important;
   box-shadow: none !important; }
-  .volunter-form .form-control::-webkit-input-placeholder {
+  .volunteer-form .form-control::-webkit-input-placeholder {
     /* Chrome/Opera/Safari */
     color: rgba(255, 255, 255, 0.8); }
-  .volunter-form .form-control::-moz-placeholder {
+  .volunteer-form .form-control::-moz-placeholder {
     /* Firefox 19+ */
     color: rgba(255, 255, 255, 0.8); }
-  .volunter-form .form-control:-ms-input-placeholder {
+  .volunteer-form .form-control:-ms-input-placeholder {
     /* IE 10+ */
     color: rgba(255, 255, 255, 0.8); }
-  .volunter-form .form-control:-moz-placeholder {
+  .volunteer-form .form-control:-moz-placeholder {
     /* Firefox 18- */
     color: rgba(255, 255, 255, 0.8); }
-  .volunter-form .form-control:focus, .volunter-form .form-control:active {
+  .volunteer-form .form-control:focus, .volunteer-form .form-control:active {
     border-color: #fff; }
 
-.volunter-form textarea.form-control {
+.volunteer-form textarea.form-control {
   height: inherit !important; }
 
 .gallery {
