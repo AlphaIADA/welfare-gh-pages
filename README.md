@@ -1,4 +1,4 @@
-# Welfare Site
+# KindHeart Charity Site
 
 This repository contains a static website. Development dependencies are managed with npm.
 
