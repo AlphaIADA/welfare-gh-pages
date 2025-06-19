@@ -1,4 +1,4 @@
-# KindHeart Charity Site
+# STEFRED GLOBAL FOUNDATION Site
 
 This repository contains a static website. Development dependencies are managed with npm.
 
